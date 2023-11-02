@@ -1,0 +1,6 @@
+article/section/span/
+
+20 => box-sizing /after/befor/z-index/
+
+24 => object-fit*img
+25=>input/form/ border: transparent
